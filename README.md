@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://yiroma.github.io/Portfolio/">YI Romaric</a></b>
+                <b><a target="_blank" href="https://yiromaric.fr/">YI Romaric</a></b>
         </samp>
 </h3>
 
@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
- <a href="https://yiroma.github.io/Portfolio/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="yiromaWebsite" />
+ <a href="https://yiromaric.fr/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Go to Yi Romaric's website" />
  </a>
  <a href="https://www.linkedin.com/in/yiromaric/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yiromaLinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Go to Yi Romaric LinkedIn's page"/>
  </a>
 </p>
 <br />
@@ -29,7 +29,7 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
- 📧 &emsp; Reach me anytime: yiromaric@gmail.com<br/><br/>
+ 📧 &emsp; Reach me on mail: yiromaric@gmail.com<br/><br/>
 </p>
 
 ## Use To Code
