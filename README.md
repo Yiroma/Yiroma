@@ -5,7 +5,7 @@
     「 Développeur Full Stack JavaScript spécialisé en environnement moderne. 
     Je conçois et développe des applications web performantes et maintenables, 
     en appliquant des architectures solides et des pratiques de code de qualité. 
-    Actuellement à la recherche d'un poste en CDI pour contribuer à la conception et à l'évolution de solutions web. 」
+    Actuellement à la recherche d'un poste pour contribuer à la conception et à l'évolution de solutions web. 」
   </samp>
 </p>
 
@@ -26,9 +26,9 @@
 
 ---
 
-## 💻 Ma Stack Technique (Full Stack)
+## 💻 Ma Stack Technique
 
-### Langages & Frontend
+### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -38,7 +38,7 @@
 ![Next JS](https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Architecture
+### Backend
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
