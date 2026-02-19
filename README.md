@@ -1,8 +1,8 @@
 # 👋 YI Romaric | Concepteur Développeur d'Application
 
-> 「 Développeur Full Stack JavaScript spécialisé en environnement moderne.
+> Développeur Full Stack JavaScript spécialisé en environnement moderne.
 > Je conçois et développe des applications web performantes et maintenables,
-> en appliquant des architectures solides et des pratiques de code de qualité. 」
+> en appliquant des architectures solides et des pratiques de code de qualité.
 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-CDI_%7C_CDD_%7C_Freelance-brightgreen?style=for-the-badge)
 
@@ -78,25 +78,29 @@
 
 ### **Budget Management** _(en cours)_
 
-- **Description :** Application de gestion financière personnelle. Architecture en couches, API REST stricte, conteneurisation complète et documentation de conventions.
+> Application de gestion financière personnelle. Architecture en couches, API REST stricte, conteneurisation complète et documentation de conventions.
+
 - **Rôle :** Concepteur & Développeur Full Stack
 - **Technologies :** Next.js, TypeScript, Tailwind, Java, Spring Boot, PostgreSQL, Docker
 
 ### **CarePlan** (2025)
 
-- **Description :** Application web de gestion de plannings médicaux. Outil multi-rôles avec architecture microservices, automatisation des tests et documentation technique.
+> Application web de gestion de plannings médicaux. Outil multi-rôles avec architecture microservices, automatisation des tests et documentation technique.
+
 - **Rôle :** Concepteur & Développeur Full Stack
 - **Technologies :** React, TypeScript, Apollo, GraphQL, TypeORM, PostgreSQL, Docker
 
 ### **Hive Home Media Center** (2025)
 
-- **Description :** Catalogue interactif de médias avec interface mobile-first, système de favoris, notation et recommandations.
+> Catalogue interactif de médias avec interface mobile-first, système de favoris, notation et recommandations.
+
 - **Rôle :** Concepteur & Développeur Full Stack
 - **Technologies :** React, TypeScript, Tailwind, Apollo, GraphQL, TypeORM, SQLite
 
 ### **DevMX, le Blog** (2023)
 
-- **Description :** Blog communautaire pour des Alumnis de formation, avec système d'authentification, d'upload et d'administration.
+> Blog communautaire pour des Alumnis de formation, avec système d'authentification, d'upload et d'administration.
+
 - **Rôle :** Développeur Full Stack
 - **Technologies :** React, SASS, Node.js, Express, MySQL
 
