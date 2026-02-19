@@ -4,7 +4,7 @@
 > Je conçois et développe des applications web performantes et maintenables,
 > en appliquant des architectures solides et des pratiques de code de qualité. 」
 
-![Open to Work](https://img.shields.io/badge/Open_to_Work-CDI_%7C_CDD_%7C_Alternance_%7C_Freelance-brightgreen?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-CDI_%7C_CDD_%7C_Freelance-brightgreen?style=for-the-badge)
 
 ---
 
@@ -19,6 +19,7 @@
 ## 💻 Ma Stack Technique
 
 ### Frontend
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -31,6 +32,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Backend
+
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -38,6 +40,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Bases de Données
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -45,6 +48,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Architecture & Méthodes
+
 ![MVC](https://img.shields.io/badge/MVC-555555?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-555555?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-555555?style=for-the-badge)
@@ -52,6 +56,7 @@
 ![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-555555?style=for-the-badge)
 
 ### Outils & DevOps
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -61,6 +66,7 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Qualité
+
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 ![Jest / Vitest](https://img.shields.io/badge/Jest_%2F_Vitest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -70,24 +76,28 @@
 
 ## 💡 Projets
 
-### **Budget Management** *(en cours)*
-* **Description :** Application de gestion financière personnelle. Architecture en couches, API REST stricte, conteneurisation complète et documentation de conventions.
-* **Rôle :** Concepteur & Développeur Full Stack
-* **Technologies :** Next.js, TypeScript, Tailwind, Java, Spring Boot, PostgreSQL, Docker
+### **Budget Management** _(en cours)_
+
+- **Description :** Application de gestion financière personnelle. Architecture en couches, API REST stricte, conteneurisation complète et documentation de conventions.
+- **Rôle :** Concepteur & Développeur Full Stack
+- **Technologies :** Next.js, TypeScript, Tailwind, Java, Spring Boot, PostgreSQL, Docker
 
 ### **CarePlan** (2025)
-* **Description :** Application web de gestion de plannings médicaux. Outil multi-rôles avec architecture microservices, automatisation des tests et documentation technique.
-* **Rôle :** Concepteur & Développeur Full Stack
-* **Technologies :** React, TypeScript, Apollo, GraphQL, TypeORM, PostgreSQL, Docker
+
+- **Description :** Application web de gestion de plannings médicaux. Outil multi-rôles avec architecture microservices, automatisation des tests et documentation technique.
+- **Rôle :** Concepteur & Développeur Full Stack
+- **Technologies :** React, TypeScript, Apollo, GraphQL, TypeORM, PostgreSQL, Docker
 
 ### **Hive Home Media Center** (2025)
-* **Description :** Catalogue interactif de médias avec interface mobile-first, système de favoris, notation et recommandations.
-* **Rôle :** Concepteur & Développeur Full Stack
-* **Technologies :** React, TypeScript, Tailwind, Apollo, GraphQL, TypeORM, SQLite
+
+- **Description :** Catalogue interactif de médias avec interface mobile-first, système de favoris, notation et recommandations.
+- **Rôle :** Concepteur & Développeur Full Stack
+- **Technologies :** React, TypeScript, Tailwind, Apollo, GraphQL, TypeORM, SQLite
 
 ### **DevMX, le Blog** (2023)
-* **Description :** Blog communautaire pour des Alumnis de formation, avec système d'authentification, d'upload et d'administration.
-* **Rôle :** Développeur Full Stack
-* **Technologies :** React, SASS, Node.js, Express, MySQL
+
+- **Description :** Blog communautaire pour des Alumnis de formation, avec système d'authentification, d'upload et d'administration.
+- **Rôle :** Développeur Full Stack
+- **Technologies :** React, SASS, Node.js, Express, MySQL
 
 ---
