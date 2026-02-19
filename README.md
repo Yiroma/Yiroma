@@ -10,9 +10,9 @@
 
 ## 🔗 Contact & Réseaux
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yiromaric.fr-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yiromaric.fr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yiromaric.fr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiromaric/)
-[![Gmail](https://img.shields.io/badge/Gmail-yiromaric%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yiromaric@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yiromaric@gmail.com)
 
 ---
 
@@ -47,14 +47,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Architecture & Méthodes
-
-![MVC](https://img.shields.io/badge/MVC-555555?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-555555?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-555555?style=for-the-badge)
-![Merise](https://img.shields.io/badge/Merise-555555?style=for-the-badge)
-![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-555555?style=for-the-badge)
-
 ### Outils & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,6 +63,14 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 ![Jest / Vitest](https://img.shields.io/badge/Jest_%2F_Vitest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-212A34?style=for-the-badge&logo=playwright&logoColor=white)
+
+### Architecture & Méthodes
+
+![MVC](https://img.shields.io/badge/MVC-555555?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-555555?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-555555?style=for-the-badge)
+![Merise](https://img.shields.io/badge/Merise-555555?style=for-the-badge)
+![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-555555?style=for-the-badge)
 
 ---
 
