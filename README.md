@@ -1,3 +1,5 @@
+![Bannière](banner-github-profile.png)
+
 # 👋 YI Romaric | Concepteur Développeur d'Application
 
 > Développeur Full Stack JavaScript spécialisé en environnement moderne.
