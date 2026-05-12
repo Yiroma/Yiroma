@@ -1,4 +1,4 @@
-![Bannière](banner-github-profile.png)
+![Bannière](github-banner.png)
 
 # 👋 YI Romaric | Concepteur Développeur d'Application
 
