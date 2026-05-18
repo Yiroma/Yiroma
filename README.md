@@ -1,10 +1,10 @@
 ![Bannière](github-banner.png)
 
-# 👋 YI Romaric | Concepteur Développeur d'Application
+# 👋 YI Romaric | Développeur Full Stack
 
-> Développeur Full Stack JavaScript spécialisé en environnement moderne.
-> Je conçois et développe des applications web performantes et maintenables,
-> en appliquant des architectures solides et des pratiques de code de qualité.
+> Développeur Full Stack React / Node.js / TypeScript / Java.
+> Je conçois et développe des applications web performantes, accessibles (RGAA, WCAG 2.1)
+> et maintenables, en appliquant des architectures solides et des pratiques de code de qualité.
 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-CDI_%7C_CDD_%7C_Freelance-brightgreen?style=for-the-badge)
 
@@ -40,6 +40,8 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 
 ### Bases de Données
 
@@ -73,37 +75,5 @@
 ![UML](https://img.shields.io/badge/UML-555555?style=for-the-badge)
 ![Merise](https://img.shields.io/badge/Merise-555555?style=for-the-badge)
 ![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-555555?style=for-the-badge)
-
----
-
-## 💡 Projets
-
-### **Budget Management** _(en cours)_
-
-> Application de gestion financière personnelle. Architecture en couches, API REST stricte, conteneurisation complète et documentation de conventions.
-
-- **Rôle :** Concepteur & Développeur Full Stack
-- **Technologies :** Next.js, TypeScript, Tailwind, Java, Spring Boot, PostgreSQL, Docker
-
-### **CarePlan** (2025)
-
-> Application web de gestion de plannings médicaux. Outil multi-rôles avec architecture microservices, automatisation des tests et documentation technique.
-
-- **Rôle :** Concepteur & Développeur Full Stack
-- **Technologies :** React, TypeScript, Apollo, GraphQL, TypeORM, PostgreSQL, Docker
-
-### **Hive Home Media Center** (2025)
-
-> Catalogue interactif de médias avec interface mobile-first, système de favoris, notation et recommandations.
-
-- **Rôle :** Concepteur & Développeur Full Stack
-- **Technologies :** React, TypeScript, Tailwind, Apollo, GraphQL, TypeORM, SQLite
-
-### **DevMX, le Blog** (2023)
-
-> Blog communautaire pour des Alumnis de formation, avec système d'authentification, d'upload et d'administration.
-
-- **Rôle :** Développeur Full Stack
-- **Technologies :** React, SASS, Node.js, Express, MySQL
 
 ---
